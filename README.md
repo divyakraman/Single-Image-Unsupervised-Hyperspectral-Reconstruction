@@ -3,4 +3,6 @@ Abstract: Reconstruction of the hyperspectral image from a compressively sensed 
 
 The paper can be found at 'Unsupervised Single Image Hyperspectral Reconstruction.pdf'.
 
-This repository contains the code for the project. The code is heavily borrowed from https://github.com/DmitryUlyanov/deep-image-prior. 
+This repository contains the code for the project. The utils folder is borrowed from https://github.com/DmitryUlyanov/deep-image-prior. The data files and the code for the forward mapping which converts hyperspectral to RGB is borrowed from https://personalpages.manchester.ac.uk/staff/d.h.foster/Tutorial_HSI2RGB/Tutorial_HSI2RGB.html. The code for the forward mapping to convert hyperspectral to CASSI is borrowed from https://github.com/nishi951/hyperspectral-cs. 
+
+
